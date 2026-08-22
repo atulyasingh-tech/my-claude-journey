@@ -1,1 +1,5 @@
-
+* **Output Quality is Context-Dependent:** Large language models predict the most statistically probable continuation; a vague prompt triggers generic, high-level defaults, while a structured prompt grounds the model in specific domain context.
+* **Constraints Drive Precision:** Defining what to avoid (negative constraints), setting exact word or character limits, and specifying formatting guidelines prevent verbose fluff and hallucinated assumptions.
+* **Persona and Audience Anchor Tone:** Assigning a clear role ("Act as a senior engineer") and defining the intended recipient ("for non-technical stakeholders") immediately eliminates robotic language and tailors the depth of explanation.
+* **Structural Scaffolding Forces Better Reasoning:** Demanding clear layouts—such as Markdown tables, bulleted steps, or JSON schemas—compels the model to organize its chain of thought logically rather than outputting unstructured paragraphs.
+* **Iterative Multi-Turn Calibration:** An engineered prompt does not require perfection on the first try; it establishes a clear baseline of rules that makes subsequent refinements and debugging significantly faster.
