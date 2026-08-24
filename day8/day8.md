@@ -1,1 +1,5 @@
+Through building this website with Claude AI, I learned that AI can be a powerful development assistant when used with clear instructions and creativity. I learned how to convert an idea into a structured website by breaking the project into different components such as layout, design, functionality, data visualization, and user interaction.
 
+I also learned the importance of prompt engineering—giving clear requirements, defining the target audience, specifying features, colors, responsiveness, and functionality. Instead of simply accepting the first result, I learned to analyze the generated output, identify problems, and continuously refine the website through better prompts and iterations.
+
+While creating the website, I gained a better understanding of frontend development concepts such as HTML structure, CSS styling, responsive design, JavaScript interactions, dashboards, cards, filters, charts, and user experience design. I also learned that real-world data needs to be validated, cleaned, and handled carefully before using it in an application
